@@ -20,7 +20,7 @@ function Footer() {
 
       <section id="footer">
         <div className="contactsection">
-          <h2>CargO</h2>
+          <h2>ParceL</h2>
           <h4>contact</h4>
           <p>
             <strong>Address:</strong>562 wellington Road,street 32,San Francisco
